@@ -3,8 +3,6 @@
         android:id="@+id/refresh"
         android:title="@string/action_refresh" />
 
-    <item
-        android:id="@+id/refreshs"
-        android:title="@string/action_refresh" />
+
 
 </menu>
